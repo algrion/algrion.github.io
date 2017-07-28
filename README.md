@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Acredito que eu possa colocar um link [aqui](algrion.github.io/outrapagina)
+Acredito que eu possa colocar um link [aqui](/outrapagina)
 
 You can use the [editor on GitHub](https://github.com/algrion/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
