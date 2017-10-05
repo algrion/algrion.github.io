@@ -3,4 +3,4 @@
 Some of my projects are:
 
 - [Teste](/teste)
-- [Outra Página](algrion/outrapagina)
+- [Outra Página](/outrapagina)
