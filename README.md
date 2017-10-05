@@ -2,4 +2,4 @@
 
 Some of my projects are:
 
-- [Teste](algrion.github.io/teste)
+- [Teste](/teste)
