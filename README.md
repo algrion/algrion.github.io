@@ -1,6 +1,3 @@
 ## Welcome to my GitHub Pages
 
-Some of my projects are:
-
-- [Teste](/teste)
-- [Outra Página](/outrapagina)
+My projects will be available here soon.
