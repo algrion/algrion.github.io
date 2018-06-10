@@ -1,3 +1,4 @@
-## Welcome to my GitHub Pages
+## R.I.P. GitHub
 
-My projects will be available here soon.
+Maybe, someday, I will return.
+I'm just not ready for these changes now.
